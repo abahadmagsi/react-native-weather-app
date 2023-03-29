@@ -27,5 +27,17 @@ Once the environment variables are set, you can start the app by running:
 
 npm start
 
-npm start
+
+## Additional Features
+
+- The app automatically fetches the weather details of your current location on start.
+- You can get additional information for 5 days and every 3 hours.
+
+## Challenges Faced
+
+During development, we faced challenges related to making API calls faster and rendering accurate data. However, after implementing best practices and optimizing our code, we were able to overcome these challenges. 
+
+## Conclusion
+
+We hope you find the React Native Weather App useful and informative. Please feel free to contribute to the project or raise any issues you may encounter while using the application. Thank you for using our application!
 
